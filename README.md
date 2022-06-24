@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @averagehooman
+- 👋 Hi, I’m @madhu
 - 👀 I’m interested in Python/coding discord bots.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything related to basic python.
